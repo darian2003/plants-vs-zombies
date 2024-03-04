@@ -1,3 +1,6 @@
+
+For a better understanding of the game, I recommend watching the sample video of the gameplay.
+
 This is a game inspired from Plants Vs. Zombies that is implemented purely in C++ and built on top of OpenGL, using various libraries like GLUT and GLEW.
 The gameplay is as follows:
 - There are 4 types of enemies (represented by the Enemy.cpp class) than can spawn on 3 different lines, continously and randomly.
